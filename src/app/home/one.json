@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Who has been appionted as the IAF vice cheif ?",
+    "options": [
+      "Vivek Ram Chaudari",
+      "Gita MIttal",
+      "Shymala Ganesh",
+      "Thomas Vintenberg"
+    ],
+    "answer": "Vivek Ram Chaudari"
+  },
+  {
+    "question": " World Environment Day is Obsered on ?",
+    "options": ["JUNE 5", "JUNE 6,", "JUNE 7", "JUNE 3"],
+    "answer": "JUNE 5"
+  },
+  {
+    "question": "Who has been elected as a member of International Swimming Federation (FINA) Bureau?",
+    "options": [
+      "Sourav Ganguly",
+      "vaani kapoor",
+      "Virendra Nanavati",
+      "Deepika Padukoni"
+    ],
+    "answer": "Virendra Nanavati"
+  },
+  {
+    "question": "Who has won the Azerbaijan Grand Prix Title 2021?",
+    "options": [
+      "Sergio Perez",
+      "Max Verstappan",
+      "Lewis Hamilton",
+      "Jehan Daruvula"
+    ],
+    "answer": "Sergio Perez"
+  },
+  {
+    "question": "Which day is celebrated as the National Milk Day",
+    "options": ["JUNE 1", "NOV 26", "JUNE 5", "JUNE 6"],
+    "answer": "NOV 26"
+  },
+  {
+    "question": "BIMSTEC Day is observed gobally on ",
+    "options": ["JUNE 6", "JUNE 5", "JUNE 7", "JUNE 8"],
+    "answer": "JUNE 6"
+  },
+  {
+    "question": "Who wins the Nature TTL Phoyographer of the year 2021",
+    "options": ["Thomas Vijayan", "Maria resso", "ANdrea reza", "RK Mathur"],
+    "answer": "Thomas Vijayan "
+  },
+  {
+    "question": "which state or UT launched Youn Tab scheme?",
+    "options": [
+      "MADHYA PRADESH",
+      "LADAKH",
+      "JAMMU AND KASHMIR",
+      "UTTARAKHAND "
+    ],
+    "answer": "LADAKH"
+  },
+  {
+    "question": "Which state has launhed 'Knowledge Economy Mission' ?",
+    "options": ["KERALA ", "TAMIL NADU ", "KARANATAKA", "MAHARASTRA "],
+    "answer": "KERALA "
+  },
+  {
+    "question": "Who has bee reappionted as the Director of RBL Bank?",
+    "options": [
+      "S Rramann ",
+      "Amitabh Chaudary ",
+      "Viishwavir Ahuja",
+      "S Jnakiram "
+    ],
+    "answer": "Vishwavir Ahuja "
+  },
+  {
+    "question": "What is the amount collected by GST for the month of MAY?",
+    "options": [
+      "1,02,709 Crore ",
+      "1.41 lakh crore ",
+      "1.24 lakh crore",
+      "1,19,847 croe "
+    ],
+    "answer": "1,02,709 Crore "
+  },
+  {
+    "question": "Who has won the International Booker Prize 2021?",
+    "options": [
+      "David Diop ",
+      "Sharan Kumar Limbale",
+      "Rama krishna Behara",
+      "Sharad Pagare"
+    ],
+    "answer": "David Diop "
+  }
+]
